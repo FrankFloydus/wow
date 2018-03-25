@@ -1,7 +1,7 @@
 
 -- BASIC STRUCTURE TO CREATE A FRAME
 
--- Creating the fram
+-- Creating the frame
   local f = CreateFrame("Frame", nil, UIParent)
   f:SetSize(200, 50)
   f:SetPoint("CENTER")
